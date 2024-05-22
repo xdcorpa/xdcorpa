@@ -1,0 +1,6 @@
+- Hi, I’m @xdcorpa.
+- How to reach me: mail me on decoymaildot@gmail.com
+- I’m currently learning ...
+- I’m experienced in:
+  - C (programming)
+    - readmegen.c
